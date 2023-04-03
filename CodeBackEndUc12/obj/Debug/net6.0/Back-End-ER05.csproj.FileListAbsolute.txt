@@ -1,0 +1,75 @@
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.exe
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.deps.json
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.runtimeconfig.json
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.AssemblyReference.cache
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfoInputs.cache
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfo.cs
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.CoreCompileInputs.cache
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\refint\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.genruntimeconfig.cache
+C:\Users\senaisp\Desktop\Aulas\08-02-23\Tutma14-15\Cod_Back-End\obj\Debug\net6.0\ref\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.exe
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.deps.json
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.runtimeconfig.json
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.AssemblyReference.cache
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfoInputs.cache
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfo.cs
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.CoreCompileInputs.cache
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\refint\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.genruntimeconfig.cache
+C:\Users\senaisp\Desktop\Aulas\15-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\ref\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.exe
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.deps.json
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.runtimeconfig.json
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.AssemblyReference.cache
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfoInputs.cache
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfo.cs
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.CoreCompileInputs.cache
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\refint\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.genruntimeconfig.cache
+C:\Users\senaisp\Desktop\Aulas\24-02-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\ref\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.exe
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.deps.json
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.runtimeconfig.json
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\bin\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.AssemblyReference.cache
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfoInputs.cache
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.AssemblyInfo.cs
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.csproj.CoreCompileInputs.cache
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\refint\Back-End-ER05.dll
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\Back-End-ER05.genruntimeconfig.cache
+C:\Users\senaisp\Desktop\Aulas\01-03-23\TurmaFS14-15\Cod_Back-End\obj\Debug\net6.0\ref\Back-End-ER05.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\bin\Debug\net6.0\Back-End-ER05.exe
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\bin\Debug\net6.0\Back-End-ER05.deps.json
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\bin\Debug\net6.0\Back-End-ER05.runtimeconfig.json
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\bin\Debug\net6.0\Back-End-ER05.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\bin\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.csproj.AssemblyReference.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.AssemblyInfoInputs.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.AssemblyInfo.cs
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.csproj.CoreCompileInputs.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\refint\Back-End-ER05.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.pdb
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\Back-End-ER05.genruntimeconfig.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Turma15 SENAI\CodeBackEndUc12\obj\Debug\net6.0\ref\Back-End-ER05.dll

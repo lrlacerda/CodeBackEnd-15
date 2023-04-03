@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2FipKRkCuAxJnu9fn1H02QtXDhhfjKlEpXPG/kvKgjio5X3S+R3DF5CzqFFtIbzRd/75c0uNnnhDXrNNjUs2iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lribe\\OneDrive\\Área de Trabalho\\Turma15 SENAI\\Chapter\\Chapter\\Chapter.WebApi\\Chapter.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lribe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lribe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\lribe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\lribe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

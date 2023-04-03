@@ -1,0 +1,12 @@
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.exe
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\web.config
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.dll
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.deps.json
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.runtimeconfig.json
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Chapter.WebApi.pdb
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\senaisp\Desktop\Aulas\08-03-23\PFS_Turma14-15\Chapter\Chapter\Chapter.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

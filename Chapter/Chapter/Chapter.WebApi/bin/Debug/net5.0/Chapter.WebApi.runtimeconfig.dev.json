@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\senaisp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\senaisp\\.nuget\\packages"
+    ]
+  }
+}
