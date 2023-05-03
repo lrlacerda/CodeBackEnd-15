@@ -1,5 +1,6 @@
 ﻿using ChapterFS15.Models;
 using ChapterFS15.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel;
@@ -9,6 +10,7 @@ namespace ChapterFS15.Controllers
     [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class LivroController : ControllerBase
     {
         private readonly LivroRepository _livroRepository;
@@ -53,6 +55,7 @@ namespace ChapterFS15.Controllers
             }
         }
 
+        [Authorize(Roles = "1")]
         [HttpPost]
 
         public IActionResult Cadastrar(Livro l)

@@ -7,6 +7,20 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+// CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", policy =>
+    {
+        policy.WithOrigins("https://localhost:3000")
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    });
+});
+
+
+
 builder.Services.AddScoped<SqlContext, SqlContext>();
 builder.Services.AddTransient<LivroRepository, LivroRepository>();
 builder.Services.AddTransient<IUsuarioRepository, UsuarioRepository>();
@@ -25,6 +39,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
+
+app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
 

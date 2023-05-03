@@ -1,6 +1,7 @@
 ﻿using ChapterFS15.Contexts;
 using ChapterFS15.Interfaces;
 using ChapterFS15.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace ChapterFS15.Repositories
 {
@@ -52,7 +53,7 @@ namespace ChapterFS15.Repositories
 
         public Usuario Login(string email, string senha)
         {
-            throw new NotImplementedException();
+            return _context.Usuarios.First(u => u.Email == email && u.Senha == senha);
         }
     }
 }
